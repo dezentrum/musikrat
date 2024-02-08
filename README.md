@@ -31,7 +31,7 @@ Node.js version >=17
    
 ![image](https://github.com/dezentrum/ta_swiss/assets/69964846/ddd036c2-8c00-40cb-ac73-2034e18286ae)
 
-6. Dem Tutorial von WorkAdventure weiter folgen (https://docs.workadventu.re/map-building/tiled-editor/#loading-the-map-in-tiled)
+5. Dem Tutorial von WorkAdventure weiter folgen (https://docs.workadventu.re/map-building/tiled-editor/#loading-the-map-in-tiled)
 
 ## Installation
 
